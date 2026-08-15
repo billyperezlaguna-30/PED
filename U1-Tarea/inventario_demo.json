@@ -1,0 +1,18 @@
+[
+    {
+        "tipo": "ProductoAlacena",
+        "nombre": "Arroz",
+        "cantidad": 35.0,
+        "unidad": "lbs",
+        "ubicacion": "alacena",
+        "fecha_ingreso": "2026-08-15 01:10"
+    },
+    {
+        "tipo": "ProductoRefrigerado",
+        "nombre": "Leche",
+        "cantidad": 14.0,
+        "unidad": "litros",
+        "ubicacion": "refrigerador",
+        "fecha_ingreso": "2026-08-15 01:10"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "tipo": "ProductoRefrigerado",
+        "nombre": "Huevo",
+        "cantidad": 6.0,
+        "unidad": "piezas",
+        "ubicacion": "refrigerador",
+        "fecha_ingreso": "2026-08-15 01:11"
+    }
+]
