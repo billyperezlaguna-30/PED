@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "ProductoRefrigerado",
+        "nombre": "Carne",
+        "cantidad": 1.0,
+        "unidad": "kg",
+        "ubicacion": "refrigerador",
+        "fecha_ingreso": "2026-08-16 09:07"
+    },
+    {
+        "tipo": "ProductoRefrigerado",
+        "nombre": "Pollo",
+        "cantidad": 4.0,
+        "unidad": "kg",
+        "ubicacion": "refrigerador",
+        "fecha_ingreso": "2026-08-16 09:09"
+    },
+    {
+        "tipo": "ProductoAlacena",
+        "nombre": "Cereal",
+        "cantidad": 2.0,
+        "unidad": "1",
+        "ubicacion": "alacena",
+        "fecha_ingreso": "2026-08-16 09:09"
+    },
+    {
+        "tipo": "ProductoAlacena",
+        "nombre": "Frijoles",
+        "cantidad": 20.0,
+        "unidad": "kg",
+        "ubicacion": "alacena",
+        "fecha_ingreso": "2026-08-16 10:46"
+    }
+]
